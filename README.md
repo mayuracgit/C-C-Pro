@@ -1,2 +1,2 @@
-# C-C-Pro
-C, C++ Programs
+# Java pro
+java Programs
